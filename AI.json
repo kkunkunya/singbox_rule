@@ -25,16 +25,15 @@
         "identrust.com",
         "poe.com",
         "anthropic.com",
-        "notebooklm.google",
-        "claude.ai",
-        "notebooklm.google"
+        "claude.ai"
       ]
     },
     {
       "domain": [
         "bard.google.com",
         "openaiapi-site.azureedge.net",
-        "servd-anthropic-website.b-cdn.net"
+        "servd-anthropic-website.b-cdn.net",
+        "notebooklm.google"
       ]
     }
   ]
