@@ -2,8 +2,7 @@
     "version": 1,
     "rules": [
       {
-        "domain_suffix": [
-        "edge.microsoft.com",
+        "domain": [
         "tv.micu.hk"
         ]
       }
